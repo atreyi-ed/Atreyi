@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1280,
+    "id" : "https://atreyi-ed.github.io/Atreyi/images/castle/canvas/",
+    "label" : {
+      "none" : [ "castle" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://atreyi-ed.github.io/Atreyi/images/castle/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://atreyi-ed.github.io/Atreyi/images/castle/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 40,
+              "height" : 27
+            }, {
+              "width" : 80,
+              "height" : 54
+            }, {
+              "width" : 160,
+              "height" : 107
+            }, {
+              "width" : 320,
+              "height" : 214
+            }, {
+              "width" : 640,
+              "height" : 427
+            }, {
+              "width" : 1280,
+              "height" : 853
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1280,
+            "@id" : "https://atreyi-ed.github.io/Atreyi/images/castle",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 853
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1280,
+          "id" : "https://atreyi-ed.github.io/Atreyi/images/castle/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 853
+        },
+        "target" : "https://atreyi-ed.github.io/Atreyi/images/castle/canvas/"
+      } ]
+    } ],
+    "height" : 853
+  }, {
     "width" : 947,
     "id" : "https://atreyi-ed.github.io/Atreyi/images/book/canvas/",
     "label" : {
