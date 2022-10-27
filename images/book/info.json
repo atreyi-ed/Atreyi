@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 30,
+    "height" : 19
+  }, {
+    "width" : 60,
+    "height" : 38
+  }, {
+    "width" : 119,
+    "height" : 76
+  }, {
+    "width" : 237,
+    "height" : 151
+  }, {
+    "width" : 474,
+    "height" : 301
+  }, {
+    "width" : 947,
+    "height" : 601
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 947,
+  "@id" : "https://atreyi-ed.github.io/Atreyi/images/book",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 601
+}
