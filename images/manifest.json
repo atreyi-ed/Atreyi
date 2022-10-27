@@ -1,0 +1,66 @@
+{
+  "id" : "https://atreyi-ed.github.io/Atreyi/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in atreyi-ed/Atreyi project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 947,
+    "id" : "https://atreyi-ed.github.io/Atreyi/images/book/canvas/",
+    "label" : {
+      "none" : [ "book" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://atreyi-ed.github.io/Atreyi/images/book/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://atreyi-ed.github.io/Atreyi/images/book/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 30,
+              "height" : 19
+            }, {
+              "width" : 60,
+              "height" : 38
+            }, {
+              "width" : 119,
+              "height" : 76
+            }, {
+              "width" : 237,
+              "height" : 151
+            }, {
+              "width" : 474,
+              "height" : 301
+            }, {
+              "width" : 947,
+              "height" : 601
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 947,
+            "@id" : "https://atreyi-ed.github.io/Atreyi/images/book",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 601
+          } ],
+          "format" : "image/jpeg",
+          "width" : 947,
+          "id" : "https://atreyi-ed.github.io/Atreyi/images/book/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 601
+        },
+        "target" : "https://atreyi-ed.github.io/Atreyi/images/book/canvas/"
+      } ]
+    } ],
+    "height" : 601
+  } ]
+}
