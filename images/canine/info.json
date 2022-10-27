@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 155,
+    "height" : 134
+  }, {
+    "width" : 309,
+    "height" : 268
+  }, {
+    "width" : 618,
+    "height" : 535
+  }, {
+    "width" : 1236,
+    "height" : 1069
+  }, {
+    "width" : 2471,
+    "height" : 2138
+  }, {
+    "width" : 4941,
+    "height" : 4275
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 4941,
+  "@id" : "https://atreyi-ed.github.io/Atreyi/images/canine",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4275
+}
