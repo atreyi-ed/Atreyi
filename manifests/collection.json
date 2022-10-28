@@ -1,0 +1,13 @@
+{
+  "id" : "https://atreyi-ed.github.io/Atreyi/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in atreyi-ed/Atreyi project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://atreyi-ed.github.io/Atreyi/manifests/gandharan_manifest.json",
+    "label" : "Gandharan sculpture fragments: Female dancers and musicians"
+  } ]
+}
