@@ -1,0 +1,203 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://atreyi-ed.github.io/Atreyi/manifests/gandharan_manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Gandharan sculpture fragments: Female dancers and musicians",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "fragment of grey schist frieze showing eight standing figures of female dancers and musicians in relief. Made of schist/metamorphic rock/rock (inorganic material)/inorganic material/materials (substances)",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Gandharan Sculptures; Art Collection; University of Edinburgh",
+  "sequences" : [ {
+    "@id" : "http://bc4e2ae1-bd4c-478a-b4f8-ac090ece128f",
+    "@type" : "sc:Sequence",
+    "label" : "Normal Sequence",
+    "canvases" : [ {
+      "@id" : "http://246cf51b-ffa1-44f4-a6a8-1c77f9597adc",
+      "@type" : "sc:Canvas",
+      "label" : "Gandhara left view",
+      "height" : 1025,
+      "width" : 1536,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://cd8bd1f5-01a2-4d23-847f-f362e81dfc11",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://atreyi-ed.github.io/Atreyi/images/gandhara1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://atreyi-ed.github.io/Atreyi/images/gandhara1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1025,
+          "width" : 1536
+        },
+        "on" : "http://246cf51b-ffa1-44f4-a6a8-1c77f9597adc"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://1cb772e8-dfd5-424f-99b3-c116bed1d79f",
+      "@type" : "sc:Canvas",
+      "label" : "Gandhara right view",
+      "height" : 1025,
+      "width" : 1536,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b6ac05f2-a209-4a9c-8723-cefa6c87342e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://atreyi-ed.github.io/Atreyi/images/gandhara2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://atreyi-ed.github.io/Atreyi/images/gandhara2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1025,
+          "width" : 1536
+        },
+        "on" : "http://1cb772e8-dfd5-424f-99b3-c116bed1d79f"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://3fffd70d-5745-4745-8737-a1dc7d37fccb",
+      "@type" : "sc:Canvas",
+      "label" : "Gandhara side",
+      "height" : 1024,
+      "width" : 1536,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://00312812-020a-490a-93b8-46631e9568ca",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://atreyi-ed.github.io/Atreyi/images/gandhara3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://atreyi-ed.github.io/Atreyi/images/gandhara3",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1024,
+          "width" : 1536
+        },
+        "on" : "http://3fffd70d-5745-4745-8737-a1dc7d37fccb"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://cfd383c7-6e24-40b8-baab-5c2572df3a3f",
+      "@type" : "sc:Canvas",
+      "label" : "Gandhara top view",
+      "height" : 1024,
+      "width" : 1536,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0c483289-1949-41c5-8e48-d68a4402390e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://atreyi-ed.github.io/Atreyi/images/gandhara4/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://atreyi-ed.github.io/Atreyi/images/gandhara4",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1024,
+          "width" : 1536
+        },
+        "on" : "http://cfd383c7-6e24-40b8-baab-5c2572df3a3f"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://aec360b8-1025-45d3-8b32-0cf360b1938b",
+      "@type" : "sc:Canvas",
+      "label" : "Gandhara base",
+      "height" : 1025,
+      "width" : 1536,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://62e4d606-3865-4a00-9005-aa2aca5f3169",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://atreyi-ed.github.io/Atreyi/images/gandhara5/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://atreyi-ed.github.io/Atreyi/images/gandhara5",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1025,
+          "width" : 1536
+        },
+        "on" : "http://aec360b8-1025-45d3-8b32-0cf360b1938b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://cdcba276-d68c-4d64-b57b-840bff344eb2",
+      "@type" : "sc:Canvas",
+      "label" : "Gandhara back view",
+      "height" : 1024,
+      "width" : 1536,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2f008daa-650d-4eac-a7a8-ec5f73957620",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://atreyi-ed.github.io/Atreyi/images/gandhara6/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://atreyi-ed.github.io/Atreyi/images/gandhara6",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1024,
+          "width" : 1536
+        },
+        "on" : "http://cdcba276-d68c-4d64-b57b-840bff344eb2"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://cc07b946-fc12-402a-bccc-fea2dc463b43",
+      "@type" : "sc:Canvas",
+      "label" : "Gandhara front view",
+      "height" : 1024,
+      "width" : 1536,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f8d2ce22-23a9-443c-a8ab-d754596442ee",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://atreyi-ed.github.io/Atreyi/images/gandhara7/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://atreyi-ed.github.io/Atreyi/images/gandhara7",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1024,
+          "width" : 1536
+        },
+        "on" : "http://cc07b946-fc12-402a-bccc-fea2dc463b43"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ],
+  "viewingDirection" : "left-to-right"
+}
