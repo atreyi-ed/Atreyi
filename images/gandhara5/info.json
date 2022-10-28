@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 48,
+    "height" : 33
+  }, {
+    "width" : 96,
+    "height" : 65
+  }, {
+    "width" : 192,
+    "height" : 129
+  }, {
+    "width" : 384,
+    "height" : 257
+  }, {
+    "width" : 768,
+    "height" : 513
+  }, {
+    "width" : 1536,
+    "height" : 1025
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1536,
+  "@id" : "https://atreyi-ed.github.io/Atreyi/images/gandhara5",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1025
+}
