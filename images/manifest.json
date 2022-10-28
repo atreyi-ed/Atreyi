@@ -7,6 +7,63 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 1536,
+    "id" : "https://atreyi-ed.github.io/Atreyi/images/gandhara5/canvas/",
+    "label" : {
+      "none" : [ "gandhara5" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://atreyi-ed.github.io/Atreyi/images/gandhara5/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://atreyi-ed.github.io/Atreyi/images/gandhara5/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 48,
+              "height" : 33
+            }, {
+              "width" : 96,
+              "height" : 65
+            }, {
+              "width" : 192,
+              "height" : 129
+            }, {
+              "width" : 384,
+              "height" : 257
+            }, {
+              "width" : 768,
+              "height" : 513
+            }, {
+              "width" : 1536,
+              "height" : 1025
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1536,
+            "@id" : "https://atreyi-ed.github.io/Atreyi/images/gandhara5",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1025
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1536,
+          "id" : "https://atreyi-ed.github.io/Atreyi/images/gandhara5/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1025
+        },
+        "target" : "https://atreyi-ed.github.io/Atreyi/images/gandhara5/canvas/"
+      } ]
+    } ],
+    "height" : 1025
+  }, {
+    "width" : 1536,
     "id" : "https://atreyi-ed.github.io/Atreyi/images/gandhara4/canvas/",
     "label" : {
       "none" : [ "gandhara4" ]
